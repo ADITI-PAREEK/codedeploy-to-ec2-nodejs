@@ -1,6 +1,6 @@
 {
-  "name": "wassup",
-  "version": "1.0.0",
+  "name": "My First Deployment",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
